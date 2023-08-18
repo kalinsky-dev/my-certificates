@@ -1,8 +1,8 @@
 
 
 <div align="center">
-<h1 style="color:white">These are my certificates earned after completing an intensive program at Software University.</h1>
-<h2>Acquired skills in HTML, CSS, JavaScript, Express.js, React, MongoDB, Angular, MySQL</h2>
+<h1 style="color:white">These are my certificates, earned after completing an intensive program at Software University.</h1>
+<h2>Acquired skills in HTML&CSS, JavaScript, Express.js, ReactJS, MongoDB, Angular, MySQL.</h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" 
   alt="softuni logo"
