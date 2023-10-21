@@ -3,7 +3,7 @@
 <h2>Acquired skills in HTML&CSS, JavaScript, Express.js, ReactJS, MongoDB, Angular, MySQL.</h2>
 
 <table>
-  <tr>
+  <tr style="text-align:center;">
     <td style="text-align:center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" 
   alt="softuni logo"
