@@ -1,27 +1,27 @@
-<div style="text-align:center;">
+<div align="center">
 <h1 style="color:white">These are my Certificates, earned after completing an intensive program at Software University, Academind and Traversy Media.</h1>
 <h2>Acquired skills in HTML&CSS, JavaScript, Express.js, ReactJS, MongoDB, Angular, MySQL.</h2>
 
 <table>
   <tr>
-    <td style="text-align:center;">
+    <td align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" 
   alt="softuni logo"
-  style="width:150px; padding:10px; display: block;"
+  style="width:150px; padding:10px; margin: 0 auto; display: block;"
   />
   </td>
-    <td style="text-align:center;">
+    <td align="center">
     <img src="https://www.filepicker.io/api/file/6IvcppitT6220YqR2CZb" 
   alt="Academind logo"
-   style="width:150px; padding:10px; display: block;"
+   style="width:150px; padding:10px; margin: 0 auto; display: block;"
   />
   </td>
   </tr>
    <tr>
-   <td colspan="2" style="text-align:center;">
+   <td colspan="2" align="center">
    <img src="https://yt3.googleusercontent.com/FGxGbXEEUNf5GWcraGa-f4PLGdDGIgOf4C6LH0PKH3ug-W8PR0tXkUq8eKPAbz8kCFKhVck7tA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
   alt="Traversy Media logo"
-  style="width:700px; padding:10px; display: block;"
+  style="width:700px; padding:10px; margin: 0 auto; display: block;"
   /> 
   </td>
   </tr>
