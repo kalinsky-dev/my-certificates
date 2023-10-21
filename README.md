@@ -7,13 +7,13 @@
     <td align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" 
   alt="softuni logo"
-  style="width:150px; padding:10px; margin: 0 auto; display: block;"
+  style="width:120px; padding:10px; margin: 0 auto; display: block;"
   />
   </td>
     <td align="center">
     <img src="https://www.filepicker.io/api/file/6IvcppitT6220YqR2CZb" 
   alt="Academind logo"
-   style="width:150px; padding:10px; margin: 0 auto; display: block;"
+   style="width:120px; padding:10px; margin: 0 auto; display: block;"
   />
   </td>
   </tr>
@@ -21,7 +21,7 @@
    <td colspan="2" align="center">
    <img src="https://yt3.googleusercontent.com/FGxGbXEEUNf5GWcraGa-f4PLGdDGIgOf4C6LH0PKH3ug-W8PR0tXkUq8eKPAbz8kCFKhVck7tA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
   alt="Traversy Media logo"
-  style="width:500px; padding:10px; margin: 0 auto; display: block;"
+  style="width:600px; padding:10px; margin: 0 auto; display: block;"
   /> 
   </td>
   </tr>
