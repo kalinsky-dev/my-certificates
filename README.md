@@ -13,7 +13,7 @@
     <td style="text-align:center;">
     <img src="https://www.filepicker.io/api/file/6IvcppitT6220YqR2CZb" 
   alt="Academind logo"
-  style="width:150px; padding:10px; margin: 0 auto; display: block;"
+   style="width:150px; padding:10px; margin: 0 auto; display: block;"
   />
   </td>
   </tr>
