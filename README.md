@@ -105,5 +105,37 @@
     <a href="https://softuni.bg/certificates/details/182969/c261d1ac">Link</a> 
   </td>
 </tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+     <a href="https://www.udemy.com/course/javascript-challenges/">Data Structures & Algorithms</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://www.udemy.com/certificate/UC-8ffce396-c76c-4bf0-984b-c1e60de3cdfc/">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+     <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://www.udemy.com/certificate/UC-894af9d1-7a01-478b-8cfa-57847fd813af/">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+     <a href="https://softuni.bg/trainings/4343/typescript-october-2023">TypeScript</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="#">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+     <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="#">Link</a> 
+  </td>
+</tr>
 </table>
   <div>
