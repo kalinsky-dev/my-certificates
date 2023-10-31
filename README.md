@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="color:white">These are my Certificates, earned after completing an intensive program at Software University, Academind and Traversy Media.</h1>
-<h2>Acquired skills in HTML&CSS, JavaScript, Express.js, ReactJS, MongoDB, Angular, MySQL.</h2>
+<h2>Acquired skills in JavaScript, TypeScript, HTML&CSS, Express.js, ReactJS, Angular, MongoDB, MySQL, Docker & Kubernetes.</h2>
 
 <table>
   <tr>
