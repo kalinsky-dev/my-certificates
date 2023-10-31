@@ -33,57 +33,76 @@
   <th style="text-align:center; vertical-align: middle;">CERTIFICATE</th>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Javascript Basics</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/Programming%20Basics%20-%20January%202022%20-%20Certificate.pdf">Link</a> 
+    <a href="https://softuni.bg/trainings/3622/programming-basics-with-javascript-january-2022" >Programming Basics with JavaScript 
+    </a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/124475/d7961a01">Link<a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Javascript Fundamentals</td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/139021/21dbc6e3">Programming Fundamentals with JavaScript</a>
+  </td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/Programming%20Fundamentals%20with%20JavaScript%20-%20May%202022%20-%20Certificate.pdf">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Javascript Advanced</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/JS%20Advanced%20-%20September%202022%20-%20Certificate.pdf">Link</a> 
+   <a href="https://softuni.bg/trainings/3846/js-advanced-september-2022">JS Advanced</a> 
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/145341/15d829c4">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Javascript Applications</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/JS%20Applications%20-%20October%202022%20-%20Certificate.pdf">Link</a> 
+  <a href="https://softuni.bg/trainings/3847/js-applications-october-2022">JS Applications</a>
+</td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/149750/200cac3b">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">JS Back-End</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/JS%20Back-End%20-%20January%202023%20-%20Certificate.pdf">Link</a> 
+    <a href="https://softuni.bg/trainings/3972/js-back-end-january-2023">JS Back-End</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/162700/099bd5ec">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">ReactJS</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/ReactJS%20-%20February%202023%20-%20Certificate.pdf">Link</a> 
+    <a href="https://softuni.bg/trainings/3973/reactjs-february-2023">JS ReactJS </a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/168517/86be8594">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">MySQL</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/MySQL%20-%20May%202023%20-%20Certificate.pdf">Link</a> 
+    <a href="https://softuni.bg/trainings/4116/mysql-may-2023">MySQL</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/172230/7154db3c">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">HTML & CSS</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/HTML%20%26%20CSS%20-%20May%202023%20-%20Certificate.pdf">Link</a> 
+    <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023">HTML & CSS</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/174729/5725b7ac">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Angular</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/Angular%20-%20June%202023%20-%20Certificate.pdf">Link</a> 
+     <a href="https://softuni.bg/trainings/4112/angular-june-2023">Angular</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/182969/c261d1ac">Link</a> 
   </td>
 </tr>
 </table>
