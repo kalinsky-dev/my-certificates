@@ -43,10 +43,10 @@
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/139021/21dbc6e3">Programming Fundamentals with JavaScript</a>
+    <a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022">Programming Fundamentals with JavaScript</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/kalinsky-dev/my-certificates/blob/main/Programming%20Fundamentals%20with%20JavaScript%20-%20May%202022%20-%20Certificate.pdf">Link</a> 
+    <a href="https://softuni.bg/certificates/details/139021/21dbc6e3">Link</a> 
   </td>
 </tr>
 <tr>
