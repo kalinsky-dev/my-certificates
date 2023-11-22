@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-<table style="width:100%; max-width:1000px; background-color:#1d2029; color:#e4e4e4">
+<table align ="center" style="width:100%; max-width:1000px; background-color:#1d2029; color:#e4e4e4">
 <tr>
   <th style="text-align:center; vertical-align: middle;">COURSE NAME</th>
   <th style="text-align:center; vertical-align: middle;">CERTIFICATE</th>
