@@ -126,7 +126,7 @@
      <a href="https://softuni.bg/trainings/4343/typescript-october-2023">TypeScript</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="#">Link</a> 
+    <a href="https://softuni.bg/certificates/details/193643/5f437656">Link</a> 
   </td>
 </tr>
 <tr>
