@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="color:white">These are my Certificates, earned after completing an intensive program at Software University, Academind and Traversy Media.</h1>
 <h2>Acquired skills in JavaScript, TypeScript, HTML&CSS, Express.js, ReactJS, Angular, MongoDB, MySQL, Docker & Kubernetes.</h2>
-<h3>( January 2022 - December 2023 )</h3>
+<h3>(January 2022 - December 2023)</h3>
 <table>
   <tr>
     <td align="center">
