@@ -29,14 +29,14 @@
 
 <table align ="center" style="width:100%; max-width:1000px; background-color:#1d2029; color:#e4e4e4">
 <tr>
-  <th style="text-align:center; vertical-align: middle;">COURSE NAME</th>
-  <th style="text-align:center; vertical-align: middle;">CERTIFICATE</th>
+  <th align ="center"">COURSE NAME</th>
+  <th align ="center"">CERTIFICATE</th>
 </tr>
 <tr>
-  <td style="text-align:center; vertical-align: middle;">
+  <td align ="center"">
      <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
   </td>
-  <td style="text-align:center; vertical-align: middle;">
+  <td align ="center"">
     <a href="#">Link</a> 
   </td>
 </tr>
