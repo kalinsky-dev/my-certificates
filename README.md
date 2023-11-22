@@ -33,18 +33,18 @@
   <th>CERTIFICATE</th>
 </tr>
 <tr>
-  <td align ="center"">
+  <td>
      <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
   </td>
-  <td align ="center"">
+  <td>
     <a href="#">Link</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">
+  <td>
      <a href="https://softuni.bg/trainings/4343/typescript-october-2023">TypeScript</a>
   </td>
-  <td style="text-align: center; vertical-align: middle;">
+  <td>
     <a href="https://softuni.bg/certificates/details/193643/5f437656">Link</a> 
   </td>
 </tr>
