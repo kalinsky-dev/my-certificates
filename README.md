@@ -29,8 +29,8 @@
 
 <table align ="center" style="width:100%; max-width:1000px; background-color:#1d2029; color:#e4e4e4">
 <tr>
-  <th align ="center"">COURSE NAME</th>
-  <th align ="center"">CERTIFICATE</th>
+  <th>COURSE NAME</th>
+  <th>CERTIFICATE</th>
 </tr>
 <tr>
   <td align ="center"">
