@@ -34,51 +34,42 @@
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/trainings/3622/programming-basics-with-javascript-january-2022" >Programming Basics with JavaScript 
-    </a>
+     <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/124475/d7961a01">Link<a> 
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022">Programming Fundamentals with JavaScript</a>
-  </td>
-  <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/139021/21dbc6e3">Link</a> 
+    <a href="#">Link</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-   <a href="https://softuni.bg/trainings/3846/js-advanced-september-2022">JS Advanced</a> 
+     <a href="https://softuni.bg/trainings/4343/typescript-october-2023">TypeScript</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/145341/15d829c4">Link</a> 
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">
-  <a href="https://softuni.bg/trainings/3847/js-applications-october-2022">JS Applications</a>
-</td>
-  <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/149750/200cac3b">Link</a> 
+    <a href="https://softuni.bg/certificates/details/193643/5f437656">Link</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/trainings/3972/js-back-end-january-2023">JS Back-End</a>
+     <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/162700/099bd5ec">Link</a> 
+    <a href="https://www.udemy.com/certificate/UC-894af9d1-7a01-478b-8cfa-57847fd813af/">Link</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/trainings/3973/reactjs-february-2023">JS ReactJS </a>
+     <a href="https://www.udemy.com/course/javascript-challenges/">Data Structures & Algorithms</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/168517/86be8594">Link</a> 
+    <a href="https://www.udemy.com/certificate/UC-8ffce396-c76c-4bf0-984b-c1e60de3cdfc/">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+     <a href="https://softuni.bg/trainings/4112/angular-june-2023">Angular</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/182969/c261d1ac">Link</a> 
   </td>
 </tr>
 <tr>
@@ -99,42 +90,51 @@
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-     <a href="https://softuni.bg/trainings/4112/angular-june-2023">Angular</a>
+    <a href="https://softuni.bg/trainings/3973/reactjs-february-2023">ReactJS </a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/182969/c261d1ac">Link</a> 
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">
-     <a href="https://www.udemy.com/course/javascript-challenges/">Data Structures & Algorithms</a>
-  </td>
-  <td style="text-align: center; vertical-align: middle;">
-    <a href="https://www.udemy.com/certificate/UC-8ffce396-c76c-4bf0-984b-c1e60de3cdfc/">Link</a> 
+    <a href="https://softuni.bg/certificates/details/168517/86be8594">Link</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-     <a href="https://www.udemy.com/course/writing-clean-code/">Clean Code</a>
+    <a href="https://softuni.bg/trainings/3972/js-back-end-january-2023">JS Back-End</a>
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://www.udemy.com/certificate/UC-894af9d1-7a01-478b-8cfa-57847fd813af/">Link</a> 
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">
-     <a href="https://softuni.bg/trainings/4343/typescript-october-2023">TypeScript</a>
-  </td>
-  <td style="text-align: center; vertical-align: middle;">
-    <a href="https://softuni.bg/certificates/details/193643/5f437656">Link</a> 
+    <a href="https://softuni.bg/certificates/details/162700/099bd5ec">Link</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">
-     <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
+  <a href="https://softuni.bg/trainings/3847/js-applications-october-2022">JS Applications</a>
+</td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/149750/200cac3b">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+   <a href="https://softuni.bg/trainings/3846/js-advanced-september-2022">JS Advanced</a> 
   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="#">Link</a> 
+    <a href="https://softuni.bg/certificates/details/145341/15d829c4">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022">Programming Fundamentals with JavaScript</a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/139021/21dbc6e3">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/trainings/3622/programming-basics-with-javascript-january-2022" >Programming Basics with JavaScript 
+    </a>
+  </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://softuni.bg/certificates/details/124475/d7961a01">Link<a> 
   </td>
 </tr>
 </table>
