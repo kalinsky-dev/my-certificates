@@ -33,10 +33,10 @@
   <th style="text-align:center; vertical-align: middle;">CERTIFICATE</th>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">
+  <td style="text-align:center; vertical-align: middle;">
      <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
   </td>
-  <td style="text-align: center; vertical-align: middle;">
+  <td style="text-align:center; vertical-align: middle;">
     <a href="#">Link</a> 
   </td>
 </tr>
