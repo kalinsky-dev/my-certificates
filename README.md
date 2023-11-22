@@ -33,10 +33,10 @@
   <th>CERTIFICATE</th>
 </tr>
 <tr>
-  <td>
+  <td align="center">
      <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
   </td>
-  <td>
+  <td align="center">
     <a href="#">Link</a> 
   </td>
 </tr>
