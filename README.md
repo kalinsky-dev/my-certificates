@@ -30,7 +30,7 @@
 <table align ="center" style="width:100%; max-width:1000px; background-color:#1d2029; color:#e4e4e4">
 <tr>
    <th colspan="2" align="center">
-    <a href="#">DIPLOMA</a> 
+    <a href="https://softuni.bg/certificates/details/199348/f1ecef1a">DIPLOMA</a> 
   </th>
 </tr>
 <tr>
