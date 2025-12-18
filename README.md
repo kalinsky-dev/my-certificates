@@ -39,6 +39,22 @@
 </tr>
 <tr>
   <td align="center">
+     <a href="https://softuni.bg/trainings/5110/containers-and-cloud-october-2025">Containers & Cloud</a>
+  </td>
+  <td align="center">
+    <a href="https://softuni.bg/certificates/details/255449/e1818396">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td align="center">
+     <a href="https://softuni.bg/trainings/5109/software-engineering-and-devops-september-2025">Software Engineering & DevOps</a>
+  </td>
+  <td align="center">
+    <a href="https://softuni.bg/certificates/details/252686/699638fe">Link</a> 
+  </td>
+</tr>
+<tr>
+  <td align="center">
      <a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">Docker & Kubernetes</a>
   </td>
   <td align="center">
